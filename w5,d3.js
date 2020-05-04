@@ -32,5 +32,4 @@ var staffA = [
 ];
 Calling your function should result in:
 orderAVegetarianDish(staffA); //true
-*/
-rand mmmmm
+function
